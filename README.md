@@ -31,3 +31,10 @@
 사진 한 장을 업로드하면 그 깊이만큼 사진 표면을 밀어올려 실시간으로 보는 입체 뷰어입니다.
 
 🔗 https://xeeoni.github.io/DepthStage/
+
+---
+
+## 🧑 Sticktoon
+브라우저에서 바로 만드는 스틱맨(막대인간) 애니메이션 툴입니다.
+
+🔗 https://xeeoni.github.io/Sticktoon/
