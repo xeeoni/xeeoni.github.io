@@ -38,3 +38,9 @@
 브라우저에서 바로 만드는 스틱맨(막대인간) 애니메이션 툴입니다.
 
 🔗 https://xeeoni.github.io/Sticktoon/
+
+---
+
+## 😎 vfx-toolkit
+VFX를 위한 툴과 여러 허깅 페이스 사이트 모음집입니다.
+🔗 https://xeeoni.github.io/vfx-toolkit/
