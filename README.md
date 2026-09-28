@@ -54,3 +54,10 @@ VFX를 위한 툴과 여러 허깅 페이스 사이트 모음집입니다.
 🔗https://xeeoni.github.io/money/
 
 ---
+
+## 🎨 세로컷 (Serocut)
+웹툰용 초간단 그림 툴
+
+🔗https://xeeoni.github.io/Serocut/
+
+---
