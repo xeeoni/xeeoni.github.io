@@ -51,13 +51,20 @@ VFX를 위한 툴과 여러 허깅 페이스 사이트 모음집입니다.
 ## 🌻 여름방학 용돈 모으기
 클릭 한 번으로 즐기는 방치형(클리커) 용돈 모으기 게임. 30일 안에 목표 금액 50만원을 모으세요!
 
-🔗https://xeeoni.github.io/money/
+🔗 https://xeeoni.github.io/money/
 
 ---
 
 ## 🎨 세로컷 (Serocut)
 웹툰용 초간단 그림 툴
 
-🔗https://xeeoni.github.io/Serocut/
+🔗 https://xeeoni.github.io/Serocut/
+
+---
+
+## 🎨 PromptStage
+글 한 줄로 그림을 만드는 웹페이지예요.
+
+🔗 
 
 ---
