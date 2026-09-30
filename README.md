@@ -65,6 +65,8 @@ VFX를 위한 툴과 여러 허깅 페이스 사이트 모음집입니다.
 ## 🎨 PromptStage
 글 한 줄로 그림을 만드는 웹페이지예요.
 
-🔗 
+🔗 https://xeeoni.github.io/PromptStage/
+
+---
 
 ---
